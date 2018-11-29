@@ -1,3 +1,5 @@
+ //Aswin k
+//roll number-14
 #include <stdio.h>
 
 int seqSearch(int arr[], int s, int ele) {
