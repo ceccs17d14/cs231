@@ -1,8 +1,9 @@
-//Georgi K Joseph
-//S3-D
-//21
+ //Aswin k
+//roll number-14
 
-//source code...
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 int power(int base, int exponent) {
@@ -27,7 +28,7 @@ int priority(char symbol) {
   }
 }
 int evaluvate(int operand1, char operator, int operand2) {
-  switch(operator) {
+  switch(operator) 
     case '+':
       return (operand1+operand2);
     case '-':
